@@ -1,0 +1,79 @@
+html{
+   background-color: rgb(214,137,165);
+   
+}
+.navbar{
+    background-color: pink;
+}
+.navbar-brand{
+    font-family:'Courier New', Courier, monospace;
+    font-size:180%;
+}
+.nav-link {
+    font-family: 'Courier New', Courier, monospace;
+   
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.dropdown-menu{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+img{
+    width: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.writing-mainpage{
+    display: flex;
+
+}
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+  top: 28%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 500;
+
+  }
+  
+  .bakingimg{
+    margin-left: 5px;
+    width: 468px;
+  }
+  .mb-5{
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 15px;
+  }
+  .mb-6{
+    background-color: pink;
+  }
+  .card{
+    background-color: white;
+    margin-right: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+  }
+  .card-img-top{
+    height: 100px;
+    width: 275px;
+    
+  }
+  .card{
+    height: 300px;
+  }
+  .card-body{
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+  }
